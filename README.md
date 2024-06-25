@@ -25,8 +25,5 @@
 
 ##  The Default subnets Cider Blocks 
 
-<<<<<<< HEAD
 ![](./images/subnets.png)
-=======
-![](assets/images/subnets.png)
->>>>>>> 1c608fbed91edebe09ea5363b5e2d950f10f8e07
+
