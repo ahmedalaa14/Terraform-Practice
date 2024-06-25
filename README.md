@@ -20,9 +20,9 @@ Every user input variable has it's default value that you can override it but as
     
 ##  The Default VPC Architecture 
 
-![](assets/images/vpc.png)
+![](./images/vpc.png)
 
 
 ##  The Default subnets Cider Blocks 
 
-![](assets/images/subnets.png)
+![](./images/subnets.png)
