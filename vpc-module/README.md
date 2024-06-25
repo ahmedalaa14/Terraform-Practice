@@ -30,7 +30,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_map_public_ip_on_launch"></a> [map\_public\_ip\_on\_launch](#input\_map\_public\_ip\_on\_launch) | define if a public IP is assigned to instances launched in the subnet | `bool` | `true` | no |
 | <a name="input_public_subnets_cidr_blocks"></a> [public\_subnets\_cidr\_blocks](#input\_public\_subnets\_cidr\_blocks) | CIDR blocks for public subnets | `list(string)` | <pre>[<br>  "10.16.0.0/19",<br>  "10.16.32.0/19",<br>  "10.16.64.0/19",<br>  "10.16.96.0/19",<br>  "10.16.128.0/19",<br>  "10.16.160.0/19"<br>]</pre> | no |
-| <a name="input_tags"></a> [tags](#input\_tags) | Tags to apply to ASG resources | `map(string)` | <pre>{<br>  "company": "fawry",<br>  "team": "devops"<br>}</pre> | no |
+| <a name="input_tags"></a> [tags](#input\_tags) | Tags to apply to ASG resources | `map(string)` | <pre>{<br>  "company": "Banque Misr",<br>  "team": "devops"<br>}</pre> | no |
 | <a name="input_vpc-cider"></a> [vpc-cider](#input\_vpc-cider) | CIDR block for the VPC | `string` | `"10.16.0.0/16"` | no |
 
 ## Outputs
